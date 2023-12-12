@@ -6,7 +6,7 @@ The goal of the Pizza project is to explore the PowerBI application's tools and 
 <div align="center"> <h3 align="center"> 🔢 Dataset 🔢 </h3> </div>
 The dataset used is called "Dataset- pizza_supbrands.xlsx". It consists of 2 tables called 'cheese & tomato' and 'pepperoni'. For this project, I have only used the 'cheese & tomato' table which consists data on the brand, name of the pizza, whether its fresh or frozen, the energy, fat, saturated fat per 100g and salt per 100g details.
 
-<div align="center"> <h3 align="center"> 📂 Repository Sections 📂 </h3> </div> 
+<div align="center"> <h3 align="center"> 📂 Repository Sections 📂 </h3> </div>  
 - Dataset- pizza_supbrands.xlsx -> this is a CSV file with the Pizza dataset <br>
 - Pizza Supbrands.pbix - > this is a PowerBI file which contains the visualisations for this project <br>
 - README.md -> this file provides information on this project <br> </div
